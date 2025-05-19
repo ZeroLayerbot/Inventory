@@ -38,5 +38,4 @@ FiveM Inventory, FiveM Inventory Script, ESX Inventory, ESX Inventory UI, FiveM 
 
 ---
 
-Das Script kann direkt verwendet und bei Bedarf erweitert werden – keine Lizenzpflicht, keine Einschränkungen.  
 Viel Spaß damit! 💡🧠
