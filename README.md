@@ -28,7 +28,7 @@ Wenn keine Items vorhanden sind, erscheint eine freundliche Meldung mit Emoji. D
 ![Inventar geöffnet](bild1.png)
 
 ### Handschuhfach im Fahrzeug
-![Handschuhfach im Auto](bild.2.png)
+![Handschuhfach im Auto](bild2.png)
 
 ---
 
